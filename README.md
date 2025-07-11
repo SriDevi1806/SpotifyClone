@@ -18,8 +18,7 @@ A modern, responsive music player built with ReactJS that features dynamic album
 
 
 ⚙️ Getting Started
-1. Clone the repository 
-https://github.com/SriDevi1806/SpotifyClone.git 
+1. Clone the repository : - https://github.com/SriDevi1806/SpotifyClone 
 
 cd musiclone 
 
@@ -29,7 +28,7 @@ npm install
 3. Start the development server 
 npm run dev 
 
-4. Open in browser 
+4. Open in browser : -
 http://localhost:5173/ 
 
 
