@@ -3,7 +3,6 @@ A modern, responsive music player built with ReactJS that features dynamic album
 
 .
  🎬 Preview : - 
- ## 🎬 Preview
 
 ![Spotify Clone UI](https://github.com/SriDevi1806/SpotifyClone/blob/main/src/assets/clone.png?raw=true)
 
