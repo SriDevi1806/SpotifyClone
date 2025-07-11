@@ -2,6 +2,7 @@
 A modern, responsive music player built with ReactJS that features dynamic albums, real-time playback, and a custom UI inspired by Spotify. 
 
 .
+![Uploading Screenshot (21).png…]()
 
 🚀 Features
 🎧 Album-based playlist rendering
